@@ -1,0 +1,19 @@
+html, body, .container {
+	height: 100%;
+	background: #414A4C;
+}
+.container {
+	display: flex;
+	justify-content: center; /* horizontal center */
+}
+.stopwatch {
+	/* Position attributes */
+	align-self: center; /* vertical center */
+}
+.stopwatch {
+	/* Style attributes */
+	font-weight: bold;
+	font-size: 50vmin;
+	font-family: 'Roboto Mono', monospace;
+	/*font-family: Arial, sans-serif;*/
+}
