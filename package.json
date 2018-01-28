@@ -1,6 +1,19 @@
 {
-  "name": "Simple Timer",
+  "name": "simple-stopwatch",
   "version": "1.0.0",
-  "description": "",
-  "main": "timer.js",
+  "description": "Simple Timer",
+  "main": "stopwatch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quadarius/simple-stopwatch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quadarius/simple-stopwatch/issues"
+  },
+  "homepage": "https://github.com/Quadarius/simple-stopwatch#readme"
 }
